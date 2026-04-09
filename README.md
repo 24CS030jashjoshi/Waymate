@@ -114,5 +114,5 @@ GeeksforGeeks & W3Schools
 
 👨‍💻 Author
 Jash Joshi
-📧 jashjoshi84@gmail.com
-🔗 GitHub: https://github.com/your-username
+📧 Gmail: jashjoshi84@gmail.com
+🔗 GitHub: https://github.com/24CS030jashjoshi
